@@ -1,0 +1,15 @@
+Welcome to RC24's FreePC network!
+Before you get started, we need you to read the following (really important bro):
+
+---------- The Rules ---------------
+
+#1 - No Malicious Software/Programs (Example: Viruses/Malware/PUP/Trojans/Miners)
+#2 - No hogging resources for long (your VM will be killed and rebooted.)
+#3 - No bypassing the adult filter (it wont block anything you may need, it only blocks p0rn)
+#4 - No usage of the FreePC may be used to defraud or fraud any user or person inside or outside of the FreePC Network.
+#5 - No DDoS/DoS is permitted
+----------   Alert   ---------------
+
+if you do not agree to these rules, simply click decline.
+when you click decline, you will be logged out of your VM.
+have fun, rc24 FreePC Network.

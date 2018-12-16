@@ -1,0 +1,1 @@
+C:\xampp\htdocs\RuleSystem\Source Code [C#]\RuleSystem\RuleSystem\bin\Debug\RuleSystem.exe.config

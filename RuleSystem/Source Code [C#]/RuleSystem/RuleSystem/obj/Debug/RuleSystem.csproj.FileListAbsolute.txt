@@ -1,0 +1,9 @@
+C:\xampp\htdocs\RuleSystem\Source Code [C#]\RuleSystem\RuleSystem\bin\Debug\RuleSystem.exe.config
+C:\xampp\htdocs\RuleSystem\Source Code [C#]\RuleSystem\RuleSystem\bin\Debug\RuleSystem.exe
+C:\xampp\htdocs\RuleSystem\Source Code [C#]\RuleSystem\RuleSystem\bin\Debug\RuleSystem.pdb
+C:\xampp\htdocs\RuleSystem\Source Code [C#]\RuleSystem\RuleSystem\obj\Debug\RuleSystem.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\RuleSystem\Source Code [C#]\RuleSystem\RuleSystem\obj\Debug\RuleSystem.Form1.resources
+C:\xampp\htdocs\RuleSystem\Source Code [C#]\RuleSystem\RuleSystem\obj\Debug\RuleSystem.Properties.Resources.resources
+C:\xampp\htdocs\RuleSystem\Source Code [C#]\RuleSystem\RuleSystem\obj\Debug\RuleSystem.csproj.GenerateResource.Cache
+C:\xampp\htdocs\RuleSystem\Source Code [C#]\RuleSystem\RuleSystem\obj\Debug\RuleSystem.exe
+C:\xampp\htdocs\RuleSystem\Source Code [C#]\RuleSystem\RuleSystem\obj\Debug\RuleSystem.pdb

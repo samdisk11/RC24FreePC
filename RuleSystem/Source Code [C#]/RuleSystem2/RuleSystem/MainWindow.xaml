@@ -1,0 +1,14 @@
+﻿<Window x:Class="RuleSystem.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RuleSystem"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="284.9">
+    <Grid>
+        <Button x:Name="button" Content="Accept" HorizontalAlignment="Left" Margin="10,257,0,0" VerticalAlignment="Top" Width="100" Height="40" Click="button_Click"/>
+        <Button x:Name="button_Copy" Content="Decline" HorizontalAlignment="Left" Margin="167,257,0,0" VerticalAlignment="Top" Width="100" Height="40"/>
+        <Label x:Name="label" Content="Do you Accept these rules?" HorizontalAlignment="Left" Margin="59,226,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
